@@ -1,10 +1,10 @@
 <!-- Banner / GIF Section -->
 <p align="center">
-  <img src="https://github.com/systpro04/png/blob/main/programming.gif" width="50%" height="50%" alt="Banner">
+  <img src="https://github.com/systpro03/png/blob/main/programming.gif" width="50%" height="50%" alt="Banner">
 </p>
 
 <!-- Greeting -->
-<h1 align="center">Hey there, I'm <a href="https://github.com/systpro04" target="_blank">Louei Genita</a> 👋</h1>
+<h1 align="center">Hey there, I'm <a href="https://github.com/systpro03" target="_blank">Louei Genita</a> 👋</h1>
 <h3 align="center">💻 System Programmer | Passionate about Clean Code & Scalable Systems</h3>
 
 ---
@@ -36,8 +36,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=systpro04&show_icons=true&theme=radical&count_private=true" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=systpro04&theme=radical" alt="GitHub streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=systpro03&show_icons=true&theme=radical&count_private=true" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=systpro03&theme=radical" alt="GitHub streak" height="160"/>
 </p>
 
 ---
@@ -45,7 +45,7 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/systpro04" target="_blank">
+  <a href="https://github.com/systpro03" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:loueigenita@gmail.com" target="_blank">
