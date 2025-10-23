@@ -40,10 +40,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=systpro03&theme=radical" alt="GitHub streak" height="160"/>
 </p>
 
----
-
-
-
 <!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=systpro03&theme=react-dark&hide_border=true&area=true" />
 </p> -->
