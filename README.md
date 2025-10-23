@@ -42,6 +42,13 @@
 
 ---
 
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=systpro03&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
 ### 🌐 Connect With Me
 
 <p align="center">
@@ -78,8 +85,6 @@ but powerful enough to impress a senior."*
 
 ---
 
----
-
 ### 💖 Support My Work
 
 <p align="center">
@@ -94,8 +99,6 @@ but powerful enough to impress a senior."*
 <p align="center">
   <i>“Every star is a spark that keeps an open-source developer inspired.”</i>
 </p>
-
-
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7007C&center=true&vCenter=true&width=600&lines=Building+smart+systems...;Optimizing+code+for+performance...;Always+learning+something+new!" alt="Typing SVG" />
