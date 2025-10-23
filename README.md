@@ -74,7 +74,7 @@ but powerful enough to impress a senior."*
 
 - 🔹 Refactoring legacy CodeIgniter apps into modular, modern structures  
 - 🔹 Integrating REST APIs and automating internal tools  
-- 🔹 Experimenting with Laravel Octane and PHP 8.3 features  
+- 🔹 Experimenting with Laravel Octane and PHP 5.6 to latest features  
 
 ---
 
