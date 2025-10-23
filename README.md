@@ -1,6 +1,6 @@
 <!-- Banner / GIF Section -->
 <p align="center">
-  <img src="https://github.com/systpro04/png/blob/main/forgit.gif" width="100%" alt="Banner">
+  <img src="https://github.com/systpro04/png/blob/main/programming.gif" width="100%" alt="Banner">
 </p>
 
 <!-- Greeting -->
@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-- 🚀 **Currently Working On:** Laravel & CodeIgniter 3 enterprise systems  
+- 🚀 **Currently Working On:** Laravel & CodeIgniter 3 systems  
 - ⚙️ **Main Stack:** PHP | JavaScript | MySQL | AJAX | jQuery  
 - 💡 **Interested In:** API development, backend optimization, and CI/CD automation  
 - 🎯 **Goal:** Build high-performance, maintainable systems with real-world impact  
