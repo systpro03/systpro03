@@ -4,7 +4,7 @@
 </p>
 
 <!-- Greeting -->
-<h1 align="center">Hey there, I'm <a href="https://github.com/systpro04" target="_blank">Louei</a> 👋</h1>
+<h1 align="center">Hey there, I'm <a href="https://github.com/systpro04" target="_blank">Louei Genita</a> 👋</h1>
 <h3 align="center">💻 System Programmer | Passionate about Clean Code & Scalable Systems</h3>
 
 ---
@@ -22,7 +22,13 @@
 ### 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,codeigniter,js,jquery,html,css,bootstrap,mysql,git,vscode,linux&theme=light" />
+  <!-- Common tech via skillicons.dev -->
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,jquery,html,css,bootstrap,mysql,git,vscode,linux" />
+  <br>
+  <!-- Custom or missing icons -->
+  <img src="https://img.shields.io/badge/CodeIgniter-FC390E?style=for-the-badge&logo=codeigniter&logoColor=white" />
+  <img src="https://img.shields.io/badge/AJAX-00599C?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
@@ -42,10 +48,10 @@
   <a href="https://github.com/systpro04" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:louei.dev@gmail.com" target="_blank">
+  <a href="mailto:loueigenita@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE" target="_blank">
+  <a href="https://www.linkedin.com/in/loueigenita" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
