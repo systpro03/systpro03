@@ -22,14 +22,16 @@
 ### 🧰 Tech Toolbox
 
 <p align="center">
-  <!-- Common tech via skillicons.dev -->
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,jquery,html,css,bootstrap,mysql,git,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,jquery,html,css,bootstrap,mysql,git,vscode,linux,postman,github,apache" />
   <br>
-  <!-- Custom or missing icons -->
   <img src="https://img.shields.io/badge/CodeIgniter-FC390E?style=for-the-badge&logo=codeigniter&logoColor=white" />
   <img src="https://img.shields.io/badge/AJAX-00599C?style=for-the-badge&logo=jquery&logoColor=white" />
   <img src="https://img.shields.io/badge/APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
+  <img src="https://img.shields.io/badge/RESTful%20Services-005571?style=for-the-badge&logo=swagger&logoColor=white" />
 </p>
+
 
 ---
 
