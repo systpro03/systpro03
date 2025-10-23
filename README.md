@@ -1,6 +1,6 @@
 <!-- Banner / GIF Section -->
 <p align="center">
-  <img src="https://github.com/systpro03/png/blob/main/programming.gif" width="40%" height="40%" alt="Banner">
+  <img src="https://github.com/systpro03/png/blob/main/programming.gif" width="30%" height="30%" alt="Banner">
 </p>
 
 <!-- Greeting -->
