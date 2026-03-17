@@ -5,7 +5,7 @@
 
 <!-- Greeting -->
 <h1 align="center">Hey there, I'm <a href="https://github.com/systpro03" target="_blank">Louei Genita</a> 👋</h1>
-<h3 align="center">💻 System Programmer | Passionate about Clean Code & Scalable Systems</h3>
+<h3 align="center">System Programmer | Passionate about Clean Code & Scalable Systems</h3>
 
 ---
 
