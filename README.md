@@ -15,7 +15,6 @@
 - ⚙️ **Main Stack:** PHP | JavaScript | MySQL | AJAX | jQuery  
 - 💡 **Interested In:** API development, backend optimization, and CI/CD automation  
 - 🎯 **Goal:** Build high-performance, maintainable systems with real-world impact  
-- ☕ **Fun Fact:** I automate my routines before my first cup of coffee ☕
 
 ---
 
