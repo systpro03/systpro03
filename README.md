@@ -45,7 +45,7 @@
   <source media="(prefers-color-scheme: dark)"
           srcset="https://github.com/systpro03/systpro03/blob/main/github-contribution-grid-snake-dark.svg">
   <img alt="GitHub contribution snake"
-       src="https://github.com/systpro03/systpro03/blob/output/github-contribution-grid-snake.svg">
+       src="https://github.com/systpro03/systpro03/blob/main/github-contribution-grid-snake.svg">
 </picture>
 <!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=systpro03&theme=react-dark&hide_border=true&area=true" />
