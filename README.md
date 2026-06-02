@@ -37,15 +37,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=systpro03&show_icons=true&theme=radical&count_private=true" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=systpro03&show_icons=true&theme=radical&count_private=true" alt="" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=systpro03&theme=radical" alt="GitHub streak" height="160"/>
 </p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-          srcset="https://github.com/systpr03/systpr03/blob/output/github-contribution-grid-snake-dark.svg">
+          srcset="https://github.com/systpro03/systpro03/blob/output/github-contribution-grid-snake-dark.svg">
   <img alt="GitHub contribution snake"
-       src="https://github.com/systpr03/systpr03/blob/output/github-contribution-grid-snake.svg">
+       src="https://github.com/systpro03/systpro03/blob/output/github-contribution-grid-snake.svg">
 </picture>
 <!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=systpro03&theme=react-dark&hide_border=true&area=true" />
