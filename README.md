@@ -31,25 +31,24 @@
   <img src="https://img.shields.io/badge/RESTful%20Services-005571?style=for-the-badge&logo=swagger&logoColor=white" />
 </p>
 
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=systpro03&show_icons=true&theme=radical&count_private=true" alt="" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=systpro03&theme=radical" alt="GitHub streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=systpro03&show_icons=true&theme=radical&count_private=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=systpro03&theme=radical" height="160"/>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://github.com/systpro03/systpro03/blob/output/snake.svg">
-  <img alt="GitHub contribution snake"
-       src="https://github.com/systpro03/systpro03/blob/output/snake.svg">
-</picture>
-<!-- <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=systpro03&theme=react-dark&hide_border=true&area=true" />
-</p> -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/systpro03/systpro03/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/systpro03/systpro03/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation"
+         src="https://raw.githubusercontent.com/systpro03/systpro03/output/github-contribution-grid-snake.svg"
+         height="180"/>
+  </picture>
+</p>
 
 ---
 ### 🌐 Connect With Me
